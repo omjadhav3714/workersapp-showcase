@@ -466,7 +466,7 @@ header label{
 
 .footer{
     padding-top: 3rem;
-    background:url(../images/footer-bg.png) no-repeat;
+    background-color: #7e22ce;
     background-size: cover;
     background-position: center;
 }
